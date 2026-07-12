@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-s2",
+  "version": "1.0.0",
+  "description": "Minimal Express.js app for NB6007CEM S2",
+  "main": "Express.js",
+  "scripts": {
+    "start": "node Express.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
