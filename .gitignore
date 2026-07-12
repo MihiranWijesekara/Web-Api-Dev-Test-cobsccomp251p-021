@@ -48,11 +48,6 @@ Thumbs.db
 *.sln
 *.sw?
 
-# Package manager
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-
 # Temporary files
 tmp/
 temp/
